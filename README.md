@@ -1,9 +1,9 @@
-# Web Scraping and Selenium Automation with Python 🕷️🤖
+# Web Scraping and Selenium Automation with Python 
 
 This repository contains three Python-based automation projects demonstrating the power of web scraping, HTML parsing, and Selenium browser automation.
 
 ---
-## 🚀 Projects Explained
+## 🚀 Projects Details 
 
 ### 1. 📡 API Scraper (`API_scraper/`)
 - Uses `requests` to call the **RemoteOK API**.
